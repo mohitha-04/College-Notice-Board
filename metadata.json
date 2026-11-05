@@ -1,0 +1,6 @@
+{
+  "name": "College Notice Board",
+  "description": "A comprehensive digital college notice board with department filtering, search, rich notice details, attachments, and admin publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
